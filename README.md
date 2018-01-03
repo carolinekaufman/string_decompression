@@ -1,6 +1,8 @@
 # String Decompression
 Problem from Google's Technical Development Guide: Advanced Path
 
+https://techdevguide.withgoogle.com/paths/advanced/compress-decompression#code-challenge
+
 I'm studying Python on my own these days, so I thought it would
 be useful to explore this problem using Python.
 
